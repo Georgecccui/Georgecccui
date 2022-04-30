@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/George-Trist/9edc0c7b-b331-4b3e-8301-47ffa56521fb/6191bb5a-06c8-41b5-a18e-17b01dc3ab28/_apis/work/boardbadge/3301ac20-c01f-4ca7-9085-9005666ea1ed)](https://dev.azure.com/George-Trist/9edc0c7b-b331-4b3e-8301-47ffa56521fb/_boards/board/t/6191bb5a-06c8-41b5-a18e-17b01dc3ab28/Microsoft.RequirementCategory)
 ### Hi there 👋
 
 <!--
